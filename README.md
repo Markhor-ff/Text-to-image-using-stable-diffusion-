@@ -10,6 +10,8 @@ This Python notebook demonstrates text-to-image generation using stable diffusio
 
 ```bash
 git clone https://github.com/Markhor-ff/Text-to-image-using-stable-diffusion.git
+```
+```bash
 cd Text-to-image-using-stable-diffusion
 ```
 
