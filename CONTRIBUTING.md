@@ -4,7 +4,7 @@ Welcome! We appreciate your interest in contributing to Text-to-image-using-stab
 
 ## Getting Started
 
-1. Fork the [repository](https://github.com/Markhor-ff/Text-to-image-using-stable-diffusion/) on GitHub.
+1. Fork the [repository](https://github.com/Markhor-ff/Text-to-image-using-stable-diffusion-/) on GitHub.
 2. Clone your forked repository to your local machine:
 
    ```bash
@@ -43,7 +43,7 @@ If applicable, provide tests for your changes. Ensure existing tests pass, and w
 
 ## Issue Tracker
 
-Check the [issue tracker](https://github.com/Markhor-ff/Text-to-image-using-stable-diffusion/issues) for existing issues. If you plan to work on an issue, comment on it to let others know.
+Check the [issue tracker](https://github.com/Markhor-ff/Text-to-image-using-stable-diffusion-/issues) for existing issues. If you plan to work on an issue, comment on it to let others know.
 
 ## Communication
 
